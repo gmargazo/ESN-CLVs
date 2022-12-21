@@ -1,0 +1,12 @@
+numpy
+matplotlib
+h5py
+scipy
+skopt
+mpl_toolkits
+pickle
+time
+cmath
+itertools
+math
+os
