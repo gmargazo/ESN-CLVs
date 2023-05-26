@@ -39,7 +39,7 @@ The code in the ESN_Validation.ipynb notebook performs the following tasks:
 This is a joint work with Luca Magri. The core ESN was implemented by Alberto Racca and the code can be found in https://github.com/alberacca/Echo-State-Networks based on [2].
 
 ## Literature
-1. Margazoglou, G. and Magri, L., 2022. Stability analysis of chaotic systems from data. arXiv preprint arXiv:2210.06167.
+1. Margazoglou, G. and Magri, L., 2023. Stability analysis of chaotic systems from data. Nonlinear Dynamics, 111(9), pp.8799-8819. https://doi.org/10.1007/s11071-023-08285-1
 2. Racca, A. and Magri, L., 2021. Robust Optimization and Validation of Echo State Networks for learning chaotic dynamics. Neural Networks, 142, pp.252-268. https://doi.org/10.1016/j.neunet.2021.05.004
 
 The implementation of CLVs follows:
